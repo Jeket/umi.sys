@@ -1,7 +1,5 @@
 <?php
-	/**
-	 * Системное расширение PHP шаблонизатора.
-	 */
+	
 	class ViewPhpExtension implements IPhpExtension {
 
 		/** @var array $systemModules список системных модулей */
